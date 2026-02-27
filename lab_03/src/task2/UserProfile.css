@@ -1,0 +1,29 @@
+.profile {
+  border: 2px solid #2196f3;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 12px;
+  width: 280px;
+  background-color: #f0f8ff;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.1);
+}
+
+.profile h3 {
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.profile p {
+  font-size: 14px;
+  margin: 4px 0;
+}
+
+.loading {
+  color: orange;
+  font-weight: bold;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
